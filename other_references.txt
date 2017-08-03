@@ -1,0 +1,26 @@
+
+
+
+# nyc department of health and mental hygiene
+http://www1.nyc.gov/site/doh/services/restaurant-grades.page
+
+search by:
+- name/alphabetical
+- zip/Borough
+- Neighborhood
+- Cuisine
+- Grade: A, B, C, Grade Pending, Closed
+
+results shown:
+- list
+- Map
+
+# Restaurant Grades
+http://www1.nyc.gov/site/doh/services/restaurant-grades.page
+
+includes GIS Data
+http://www1.nyc.gov/site/doh/data/health-tools/maps-gis-data-files-for-download.page
+
+# Eater
+https://www.eater.com/a/restaurant-inspection
+
