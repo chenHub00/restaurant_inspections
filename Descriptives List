@@ -1,0 +1,39 @@
+# TO DO:
+* recode indicators to numbers
+
+
+# complete data: rest_insp
+403722
+# Subset: inspections
+* on year from inspection date
+only 2014 to 2017 
+394429
+
+* cuisine description
+- American, Chinese, Latin, etc.
+* grade
+- A, B, C, Not Yet Graded ..
+* Critical Flag
+* Violation Code
+* Violation Description
+* Action
+* Inspection type
+
+inspections['INSPECTION TYPE'].value_counts()
+Cycle Inspection / Initial Inspection                          227856
+Cycle Inspection / Re-inspection                                98600
+
+
+# Reshape: df_multi
+133172
+
+#######################################
+# Only cycle inspections from inspectionsDF: CycleInspections
+115020
+
+# Join Inspection Date and Violation Count (109 columns)
+CycleInsp_violationCount
+
+
+# Only 2014
+24678
