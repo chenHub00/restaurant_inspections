@@ -1,2 +1,3 @@
 Data Start:
 1. DOHMH_New_York_City_Restaurant_Inspection_Results_20251222.csv
+2. RestaurantInspectionDataDictionary_09242018.xslx
